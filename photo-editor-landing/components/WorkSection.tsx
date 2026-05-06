@@ -8,9 +8,9 @@ const portfolioItems = [
     title: "Portrait Retouch",
     category: "Portrait",
     beforeSrc:
-      "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=800&auto=format&fit=crop&q=80&sat=-80&bri=-10",
+      "https://github.com/Favourmaskoli/Titi-Edit/blob/main/WhatsApp%20Image%202026-05-06%20at%203.52.59%20AM.jpeg?raw=true",
     afterSrc:
-      "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=800&auto=format&fit=crop&q=80",
+      "https://github.com/Favourmaskoli/Titi-Edit/blob/main/WhatsApp%20Image%202026-05-06%20at%203.55.45%20AM.jpeg?raw=true",
   },
   {
     id: 2,
