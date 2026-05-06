@@ -8,9 +8,9 @@ const portfolioItems = [
     title: "Portrait Retouch",
     category: "Portrait",
     beforeSrc:
-      "https://github.com/Favourmaskoli/Titi-Edit/blob/main/WhatsApp%20Image%202026-05-06%20at%203.52.59%20AM.jpeg?raw=true",
+      "https://github.com/Favourmaskoli/Titi-Edit/blob/main/portrait_before.png?raw=true",
     afterSrc:
-      "https://github.com/Favourmaskoli/Titi-Edit/blob/main/WhatsApp%20Image%202026-05-06%20at%203.55.45%20AM.jpeg?raw=true",
+      "https://github.com/Favourmaskoli/Titi-Edit/blob/main/portrait_after.png?raw=true",
   },
   {
     id: 2,
